@@ -1,0 +1,15 @@
+{
+    "name": "caidingding/test_composer",
+    "description": "for private composer demo dfdf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "caiding",
+            "email": "312256567@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+}
